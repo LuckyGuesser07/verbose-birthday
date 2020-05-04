@@ -1,6 +1,6 @@
 # Happy Birthday Mr. Favio
 
-A new Flutter project. Coded by Brandon Cazares from my brother's visual studio editor.
+A new Flutter project. Coded by Brandon Cazares.
 
 ## Getting Started
 
